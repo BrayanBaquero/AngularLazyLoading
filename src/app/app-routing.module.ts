@@ -26,7 +26,7 @@ const routes: Routes = [
   {path:'form',component:FormComponent},
   {path:'dashboard',component:DashboardComponent},
   {path:'tree',component:TreeComponent},
- // {path:'prueba',component:PruebaComponent}
+  {path:'prueba',component:PruebaComponent}
   //{path: '**',redirectTo:'home'}
 
 ];
